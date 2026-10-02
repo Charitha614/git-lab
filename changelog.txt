@@ -1,1 +1,2 @@
 Version 1.1 - Added feature.txt through Git branching and merging exercise.
+Version 1.2 - Release planning initiated.
